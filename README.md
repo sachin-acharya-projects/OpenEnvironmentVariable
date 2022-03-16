@@ -1,2 +1,2 @@
 # OpenEnvironmentVariable
-Run windows control panel tool -- Environment Variable
+Runs windows control panel tool -- Environment Variable
