@@ -1,4 +1,4 @@
-# OpenEnvironmentVariable
+# Open Environment Variable
 Runs windows control panel tool -- Environment Variable
 
 Command-line: 
